@@ -20,8 +20,13 @@ out/
 *.iws
 
 ##############################
-## Compressed Files
+## Packages
 ##############################
-*.zip
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
 *.rar
-.7z
+*.tar
+*.zip
